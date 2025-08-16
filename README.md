@@ -1,11 +1,10 @@
-# 📊 SQL Insights ![MySQL Logo](https://img.icons8.com/color/48/mysql-logo.png)
+# 📊 SQL Data Analysis Projects ![MySQL Logo](https://img.icons8.com/color/48/mysql-logo.png)
 
 This repository highlights my skills in SQL through real-world projects. Each project demonstrates my ability to work with structured data, perform deep analysis, and present insights that can guide business decisions.
 
 ---
 
 ## 👨‍💼 Employee Trends Analysis
-**Files:** [Employee Trends Data (CSV)](Analyzing%20Employee%20Trends.csv) | [SQL Queries](Analyzing%20Employee%20Trends.sql)
 
 ### Overview
 This project focuses on HR employee data to uncover workforce patterns and potential risk areas. The dataset covered demographics, job roles, satisfaction levels, and attrition. SQL was used to explore and answer business-related questions.  
@@ -21,7 +20,6 @@ This project focuses on HR employee data to uncover workforce patterns and poten
 ---
 
 ## 🚙 Automotive Industry Trends
-**Files:** [Automotive Data (CSV)](Exploring%20Trends%20in%20Automotive%20Industry.csv) | [SQL Queries](Exploring%20Trends%20in%20Automotive%20Industry.sql)
 
 ### Overview
 This analysis focused on car sales data — including pricing history, mileage, transmission, and ownership details. The goal was to find pricing patterns, durable models, and forecast trends.  
@@ -38,7 +36,6 @@ This analysis focused on car sales data — including pricing history, mileage, 
 ---
 
 ## ☎️ Call Center Data Cleaning & Analysis
-**Files:** [Call Center Data (CSV)](call_center.csv) | [SQL Queries](call_center.sql)
 
 ### Overview
 This project cleaned and analyzed call center operations data to study call volume, satisfaction scores, and service efficiency.  
@@ -68,5 +65,5 @@ I primarily worked on these projects using **Microsoft SQL Server Management Stu
 
 ## 🚀 How to Use
 1. Install a SQL database (e.g., SQL Server Express).  
-2. Import `.sql` files from this repo.  
+2. Import `.sql` files from this repository.  
 3. Run or modify the queries as needed for your own dataset.  
